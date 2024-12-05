@@ -11,5 +11,5 @@ body {
 }
 
 #tasklists::-webkit-scrollbar {
-  display: none;
+  /* display: none; */
 }
